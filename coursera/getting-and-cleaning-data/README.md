@@ -20,7 +20,7 @@ Hereafter is described each step that were taken to transform the orignal data s
 * Saves the data into the "uci-har-data-grouped-average.txt" file
 
 # Usage
-* Download the [original data set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)(you can also used the saved zip file contained in this folder), and unzip in the same folder that contains the script run_analysis.R.
+* Download the [original data set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) (you can also used the saved zip file contained in this folder), and unzip in the same folder that contains the script run_analysis.R.
 * Execute the run_analysis.R script.
 * The script is then generating the "uci-har-data-grouped-average.txt" file in the folder.
 * If needed, you can read the generated data by executing the following command:
