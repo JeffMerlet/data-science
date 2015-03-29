@@ -7,6 +7,6 @@
 * [Neural Networks - Learning](./neural-networks-learning)
 * [Advice for Applying Machine Lerning](./advice-for-applying-machine-learning)
 * [Support Vector Machines (SVG)](./support-vector-machines)
-*[KMeans Clustering & PCA](./kmeans-clustering-pca)
+* [K-means Clustering & Principal Analysis Component (PCA)](./kmeans-clustering-pca)
 * [Anomaly Detection & Recommender Systems](./recommender-systems)
 
